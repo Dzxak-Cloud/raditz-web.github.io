@@ -1,0 +1,15 @@
+{
+  "name": "LinkTree Dzaki",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f8fcfa",
+  "background_color": "#f8fcfa",
+  "icons": [
+    {
+      "src": "foto/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
+}
