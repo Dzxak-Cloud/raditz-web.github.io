@@ -1,5 +1,5 @@
-const cacheName = "bin2dec-v1"
-const preCache = ["/", "/style.css", "/script.js"]
+const cacheName = "LinkTree Dzaki"
+const preCache = ["/", "css", "js", "icons", "assets", "foto", "/dana.html", "/qris.html", "/foto.html"]
 
 self.addEventListener("install", (e) => {
   console.log("service worker installed")
